@@ -31,6 +31,4 @@ The order of execution of the program files is as follows:
 
 This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 ![image](https://github.com/Rushishete20/Mobile-Price-Range-Prediction/assets/139244240/206a6b65-0984-4e1e-a817-eb7652453409)
-# 📜 Credits
-https://www.linkedin.com/in/rushikesh-shete-2a5453259/
-https://github.com/Rushishete20/
+

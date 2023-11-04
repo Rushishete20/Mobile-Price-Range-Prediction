@@ -5,10 +5,14 @@ AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)htt
 Built a Multi-Class classification model to find the relation between features of a mobile phone(RAM, Internal Memory etc) and its selling price. Model will predict the price range indicating how high the price is.
 
 
-# Project Files Description
+# 💾Project Files Description
 
 # Executable Files:
 
 **mobile_price_range_prediction.ipynb** - Includes all functions required for classification operations and generates the model.h5 file after execution.
 
 **mobile_price_range_prediction.ipynb** - after execution, evaluation is done on the unseen data as in confusion_matrix.txt.
+
+# Source Directories:
+Dataset - Includes all dataset for the training phase and testing phase of the model in the csv format.
+![image](https://github.com/Rushishete20/Mobile-Price-Range-Prediction/assets/139244240/fad87ba3-9786-4264-bc4e-4d4c960bc933)

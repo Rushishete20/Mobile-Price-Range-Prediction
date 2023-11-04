@@ -7,3 +7,8 @@ Built a Multi-Class classification model to find the relation between features o
 
 # Project Files Description
 
+# Executable Files:
+
+**mobile_price_range_prediction.ipynb** - Includes all functions required for classification operations and generates the model.h5 file after execution.
+
+**mobile_price_range_prediction.ipynb** - after execution, evaluation is done on the unseen data as in confusion_matrix.txt.
